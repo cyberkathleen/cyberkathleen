@@ -17,21 +17,21 @@ I'm your innovative and passionate apprentice developer 🎨, diving deep into t
 
 ## 🌱 Growing Every Day
 - Currently, exploring web development and home automation.
-- Building my personal portfolio website so that you can officially stalk me and my outstanding skills.
+- Building my personal portfolio website so you can officially keep up with my outstanding skills.
 
 ## 🏆 Bragging Rights
-- Bagged the 'Practice Price' at my apprenticeship school for having the best overall assessment of modules in my first year
-- Learned 6 languages, but with no guarantee that I can properly communicate with you in all of them
-- Most patient human beings except if you abuse it
+- Learned 6 languages, but I can't guarantee that I can properly communicate with you in all of them
+- One of the most patient human beings, except when that patience is tested.
 
 ## 💌 Let's Connect!
 Whether you're looking for a collaboration, have a question, or just want to ~~say hi~~ travel the world together, I'm ~~not always~~ here!
-- Shoot me an email: (Still thinking about which one of my 100 email addresses I should give you)
+- Shoot me an email: (Still deciding which one of my 100 email addresses to share.)
 - Connect on LinkedIn: linkedin.com/in/lu-kathleen
-- Check out my portfolio: (Be patient, my website URL is coming)
+- Check out my portfolio: (Be patient, my website URL is on its way!)
+
 And in case I wasn't here, you can always:
 - Send me your owl
-- Send my smoke signs
-- Mind-link me if you're capable
+- Signal me with smoke signs
+- Mind-link me, if you're capable
 
-Can't wait to create something amazing (and travel the world) together (or alone)! 🚀
+Can't wait to create something amazing (and perhaps travel the world) together (or alone)! 🚀

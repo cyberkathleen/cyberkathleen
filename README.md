@@ -17,11 +17,7 @@ I'm your innovative and passionate apprentice developer 🎨, diving deep into t
 
 ## 🌱 Growing Every Day
 - Currently, exploring web development and home automation.
-- Building my personal portfolio website so you can officially keep up with my outstanding skills.
-
-## 🏆 Bragging Rights
-- Learned 6 languages, but I can't guarantee that I can properly communicate with you in all of them
-- One of the most patient human beings, except when that patience is tested.
+- Building my portfolio website so you can officially keep up with my outstanding skills.
 
 ## 💌 Let's Connect!
 Whether you're looking for a collaboration, have a question, or just want to ~~say hi~~ travel the world together, I'm ~~not always~~ here!

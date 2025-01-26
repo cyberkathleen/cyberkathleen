@@ -7,10 +7,10 @@ I'm your innovative and passionate apprentice developer 🎨, diving deep into t
 ### 🪄 What's in My Magic Tech Toolbox
 
 - **Web Technologies**: HTML, CSS, PHP, MySQL
-- **Programming Languages**: C#, C
+- **Programming Languages**: C#, JavaScript
 - **Hardware & Embedded Systems**: Arduino
 - **Design & UX**: Figma
-- **Future Tools to Acquire**: JavaScript, React, Node.js, Python, DaVinci Resolve
+- **Coming soon**: React, Node.js, TypeScript, Angular, Python, DaVinci Resolve
 
 ### 📌 Highlight Projects
 
@@ -20,15 +20,15 @@ I'm your innovative and passionate apprentice developer 🎨, diving deep into t
 
 ### 🌱 Growing Every Day
 
-- Currently, exploring web development and home automation.
+- Currently, exploring web development and automation.
 - Building my portfolio website so you can officially keep up with my outstanding skills.
 
 ### 💌 Let's Connect!
 
 Whether you're looking for a collaboration, have a question, or just want to ~~say hi~~ travel the world together, I'm ~~not always~~ here!
 
-- Shoot me an email: (Still deciding which one of my 100 email addresses to share.)
-- Connect on LinkedIn: linkedin.com/in/lu-kathleen
+- Shoot me an email: [cyberkathleen@gmail.com](mailto:cyberkathleen@gmail.com)
+- Connect on LinkedIn: [linkedin.com/in/lu-kathleen](linkedin.com/in/lu-kathleen)
 - Check out my portfolio: (Be patient, my website URL is on its way!)
 
 And in case I wasn't here, you can always:

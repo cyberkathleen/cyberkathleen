@@ -28,7 +28,7 @@ I'm your innovative and passionate apprentice developer 🎨, diving deep into t
 Whether you're looking for a collaboration, have a question, or just want to ~~say hi~~ travel the world together, I'm ~~not always~~ here!
 
 - Shoot me an email: [cyberkathleen@gmail.com](mailto:cyberkathleen@gmail.com)
-- Connect on LinkedIn: [linkedin.com/in/lu-kathleen](linkedin.com/in/lu-kathleen)
+- Connect on LinkedIn: [linkedin.com/in/lu-kathleen](https://www.linkedin.com/in/lu-kathleen/)
 - Check out my portfolio: (Be patient, my website URL is on its way!)
 
 And in case I wasn't here, you can always:
